@@ -1,0 +1,862 @@
+2017-07-24T17:20:15.227Z - normal: Load ~/.CocosCreator/settings.json
+2017-07-24T17:20:15.258Z - normal: checking language setting...
+2017-07-24T17:20:15.258Z - normal: Language: en
+2017-07-24T17:20:17.308Z - success: protocol editor-framework registered
+2017-07-24T17:20:17.308Z - success: protocol app registered
+2017-07-24T17:20:17.309Z - success: protocol theme registered
+2017-07-24T17:20:17.309Z - success: protocol profile registered
+2017-07-24T17:20:17.309Z - success: protocol packages registered
+2017-07-24T17:20:17.309Z - success: protocol unpack registerred
+2017-07-24T17:20:17.309Z - success: protocol disable-commonjs registerred
+2017-07-24T17:20:19.037Z - normal: connected!
+2017-07-24T17:20:19.040Z - normal: Check project C:\Users\jeffa\Documents\ETCandy
+2017-07-24T17:20:19.044Z - normal: Initializing Cocos2d
+2017-07-24T17:20:21.204Z - normal: Initializing Asset Database
+2017-07-24T17:20:21.257Z - success: protocol uuid registerred
+2017-07-24T17:20:21.257Z - success: protocol db registerred
+2017-07-24T17:20:21.257Z - success: protocol thumbnail registerred
+2017-07-24T17:20:21.257Z - normal: Loading editor/builtin packages
+2017-07-24T17:20:21.288Z - success: anysdk loaded
+2017-07-24T17:20:21.505Z - success: assets loaded
+2017-07-24T17:20:21.505Z - success: builder loaded
+2017-07-24T17:20:21.505Z - success: hierarchy loaded
+2017-07-24T17:20:21.505Z - success: inspector loaded
+2017-07-24T17:20:21.520Z - success: keystore loaded
+2017-07-24T17:20:21.520Z - success: node-library loaded
+2017-07-24T17:20:21.520Z - success: package-asset loaded
+2017-07-24T17:20:21.520Z - success: preferences loaded
+2017-07-24T17:20:21.557Z - success: project-importer loaded
+2017-07-24T17:20:21.558Z - success: project-settings loaded
+2017-07-24T17:20:21.558Z - success: ui-kit loaded
+2017-07-24T17:20:21.558Z - success: ui-grid loaded
+2017-07-24T17:20:21.558Z - success: scene loaded
+2017-07-24T17:20:21.574Z - success: sprite-editor loaded
+2017-07-24T17:20:21.574Z - success: store loaded
+2017-07-24T17:20:21.574Z - success: timeline loaded
+2017-07-24T17:20:21.574Z - normal: Loading builtin packages
+2017-07-24T17:20:21.589Z - success: asset-db-debugger loaded
+2017-07-24T17:20:21.589Z - success: code-editor loaded
+2017-07-24T17:20:21.589Z - success: color-picker loaded
+2017-07-24T17:20:21.589Z - success: console loaded
+2017-07-24T17:20:21.605Z - success: package-manager loaded
+2017-07-24T17:20:21.605Z - success: sdkbox loaded
+2017-07-24T17:20:21.605Z - success: tester loaded
+2017-07-24T17:20:21.620Z - success: ui-kit-preview-extra loaded
+2017-07-24T17:20:21.620Z - success: ui-kit-preview loaded
+2017-07-24T17:20:21.620Z - success: ui-tree loaded
+2017-07-24T17:20:23.324Z - normal: Initializing project C:\Users\jeffa\Documents\ETCandy
+2017-07-24T17:20:23.340Z - normal: Loading packages
+2017-07-24T17:20:23.362Z - normal: Watching packages
+2017-07-24T17:20:23.378Z - normal: Run Application
+2017-07-24T17:20:24.912Z - success: preview server running at http://localhost:7456
+2017-07-24T17:20:39.102Z - normal: 1.5.2
+2017-07-24T17:21:07.937Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2017-07-24T17:21:07.938Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2017-07-24T17:21:07.939Z - normal: Simulator: FRAME SCALE = 1.00
+2017-07-24T17:21:07.965Z - normal: Simulator: Ready for GLSL
+2017-07-24T17:21:07.965Z - normal: Simulator: Ready for OpenGL 2.0
+2017-07-24T17:21:07.973Z - normal: Simulator: 
+2017-07-24T17:21:07.974Z - normal: Simulator: {
+2017-07-24T17:21:07.974Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4242
+2017-07-24T17:21:07.975Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-07-24T17:21:07.975Z - normal: Simulator: 	cocos2d.x.version: 1.5.2
+2017-07-24T17:21:07.975Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-07-24T17:21:07.976Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-07-24T17:21:07.976Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-07-24T17:21:07.977Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-07-24T17:21:07.979Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-07-24T17:21:07.979Z - normal: Simulator: 	gl.vendor: Intel
+2017-07-24T17:21:07.980Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
+2017-07-24T17:21:07.980Z - normal: Simulator: 	gl.max_texture_units: 96
+2017-07-24T17:21:07.981Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-07-24T17:21:07.981Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-07-24T17:21:07.981Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-07-24T17:21:07.982Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-07-24T17:21:07.982Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-07-24T17:21:07.983Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-07-24T17:21:07.983Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-07-24T17:21:07.983Z - normal: Simulator: }
+2017-07-24T17:21:07.984Z - normal: Simulator: 
+2017-07-24T17:21:07.984Z - normal: Simulator: 
+2017-07-24T17:21:07.984Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-07-24T17:21:08.006Z - normal: Simulator: Project Config:
+2017-07-24T17:21:08.007Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2017-07-24T17:21:08.008Z - normal: Simulator:     writable path: $(PROJDIR)\
+2017-07-24T17:21:08.008Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2017-07-24T17:21:08.009Z - normal: Simulator:     frame size: 960 x 640
+2017-07-24T17:21:08.009Z - normal: Simulator:     frame scale: 1.00
+2017-07-24T17:21:08.012Z - normal: Simulator:     show console: NO
+2017-07-24T17:21:08.012Z - normal: Simulator:     write debug log: NO ()
+2017-07-24T17:21:08.013Z - normal: Simulator:     listen: 
+2017-07-24T17:21:08.013Z - normal: Simulator:     debugger: none
+2017-07-24T17:21:08.014Z - normal: Simulator:     add searching path:
+2017-07-24T17:21:08.014Z - normal: Simulator: 
+2017-07-24T17:21:08.015Z - normal: Simulator: 
+2017-07-24T17:21:08.015Z - normal: Simulator: 
+2017-07-24T17:21:08.015Z - normal: Simulator: ------------------------------------------------
+2017-07-24T17:21:08.016Z - normal: Simulator: LOAD Js FILE: main.js
+2017-07-24T17:21:08.024Z - normal: Simulator: ------------------------------------------------
+2017-07-24T17:21:08.548Z - normal: Simulator: Cocos2d-x-lite v1.5.2
+2017-07-24T17:21:09.167Z - normal: Simulator: iShow!
+2017-07-24T17:21:09.282Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T17:21:10.857Z - normal: Simulator: I/AudioEngine-Win32 (170): OpenAL was initialized successfully!
+2017-07-24T17:21:10.857Z - normal: Simulator: V/AudioCache (70): AudioCache() 07B3D684, id=1
+2017-07-24T17:21:10.858Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=1
+2017-07-24T17:21:10.858Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=1
+2017-07-24T17:21:10.859Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=1
+2017-07-24T17:21:10.860Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=1
+2017-07-24T17:21:10.860Z - normal: Simulator: V/AudioPlayer (313): Exit rotate buffer thread ...
+2017-07-24T17:21:10.860Z - normal: Simulator: V/AudioPlayer (321): cocos2d::experimental::AudioPlayer::rotateBufferThread exited.
+2017-07-24T17:21:10.861Z - normal: Simulator: 
+2017-07-24T17:21:10.862Z - normal: Simulator: V/AudioPlayer (122): rotateBufferThread exited!
+2017-07-24T17:21:10.862Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:21:10.863Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:21:10.863Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=1
+2017-07-24T17:21:10.865Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (07C151A0), id=1
+2017-07-24T17:21:10.865Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T17:21:24.124Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=2
+2017-07-24T17:21:24.125Z - normal: Simulator: V/AudioCache (70): AudioCache() 07B3D144, id=2
+2017-07-24T17:21:24.126Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=2
+2017-07-24T17:21:24.126Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 27648, total read frames: 27648, adjust frames: 0, remainingFrames: 0
+2017-07-24T17:21:24.126Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=3
+2017-07-24T17:21:24.127Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=2
+2017-07-24T17:21:24.128Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (07F24CF8), id=3
+2017-07-24T17:21:24.128Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=3
+2017-07-24T17:21:24.128Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:21:24.129Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:21:24.129Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=3
+2017-07-24T17:21:24.130Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=4
+2017-07-24T17:21:24.130Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (07F25838), id=4
+2017-07-24T17:21:24.130Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=4
+2017-07-24T17:21:24.131Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:21:24.132Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:21:24.134Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=4
+2017-07-24T17:21:24.134Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=5
+2017-07-24T17:21:24.135Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (07F25CB8), id=5
+2017-07-24T17:21:24.135Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=5
+2017-07-24T17:21:24.136Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:21:24.136Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:21:24.136Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=5
+2017-07-24T17:21:24.137Z - normal: Simulator: V/AudioCache (70): AudioCache() 07B3C964, id=3
+2017-07-24T17:21:24.137Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=3
+2017-07-24T17:21:24.137Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 8734, total read frames: 8734, adjust frames: 0, remainingFrames: 0
+2017-07-24T17:21:24.138Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=6
+2017-07-24T17:21:24.138Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=3
+2017-07-24T17:21:24.139Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (07F258C8), id=6
+2017-07-24T17:21:24.139Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=6
+2017-07-24T17:21:24.139Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:21:24.140Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:21:24.140Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=6
+2017-07-24T17:21:24.140Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=7
+2017-07-24T17:21:24.141Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (07F25B98), id=7
+2017-07-24T17:21:24.141Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=7
+2017-07-24T17:21:24.141Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:21:24.142Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:21:24.143Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=7
+2017-07-24T17:21:24.144Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=8
+2017-07-24T17:21:24.145Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (07F26018), id=8
+2017-07-24T17:21:24.147Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=8
+2017-07-24T17:21:24.147Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:21:24.148Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:21:24.148Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=8
+2017-07-24T17:21:24.149Z - normal: Simulator: basic_object_finalize 06131740 ...
+2017-07-24T17:21:24.149Z - normal: Simulator: jsbindings: finalizing JS object 06131760 (WebSocket)
+2017-07-24T17:21:24.149Z - normal: Simulator: jsbindings: finalizing JS object 06131780 (SocketIO)
+2017-07-24T17:21:51.340Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2017-07-24T17:21:51.341Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2017-07-24T17:21:51.342Z - normal: Simulator: FRAME SCALE = 1.00
+2017-07-24T17:21:51.538Z - normal: Simulator: Ready for GLSL
+2017-07-24T17:21:51.539Z - normal: Simulator: Ready for OpenGL 2.0
+2017-07-24T17:21:51.539Z - normal: Simulator: 
+2017-07-24T17:21:51.540Z - normal: Simulator: {
+2017-07-24T17:21:51.541Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4242
+2017-07-24T17:21:51.541Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-07-24T17:21:51.542Z - normal: Simulator: 	cocos2d.x.version: 1.5.2
+2017-07-24T17:21:51.543Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-07-24T17:21:51.544Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-07-24T17:21:51.545Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-07-24T17:21:51.546Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-07-24T17:21:51.546Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-07-24T17:21:51.553Z - normal: Simulator: 	gl.vendor: Intel
+2017-07-24T17:21:51.554Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
+2017-07-24T17:21:51.555Z - normal: Simulator: 	gl.max_texture_units: 96
+2017-07-24T17:21:51.555Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-07-24T17:21:51.556Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-07-24T17:21:51.557Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-07-24T17:21:51.557Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-07-24T17:21:51.558Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-07-24T17:21:51.558Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-07-24T17:21:51.559Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-07-24T17:21:51.559Z - normal: Simulator: }
+2017-07-24T17:21:51.560Z - normal: Simulator: 
+2017-07-24T17:21:51.564Z - normal: Simulator: 
+2017-07-24T17:21:51.564Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-07-24T17:21:51.567Z - normal: Simulator: Project Config:
+2017-07-24T17:21:51.569Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2017-07-24T17:21:51.569Z - normal: Simulator:     writable path: $(PROJDIR)\
+2017-07-24T17:21:51.570Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2017-07-24T17:21:51.573Z - normal: Simulator:     frame size: 960 x 640
+2017-07-24T17:21:51.574Z - normal: Simulator:     frame scale: 1.00
+2017-07-24T17:21:51.575Z - normal: Simulator:     show console: NO
+2017-07-24T17:21:51.581Z - normal: Simulator:     write debug log: NO ()
+2017-07-24T17:21:51.581Z - normal: Simulator:     listen: 
+2017-07-24T17:21:51.582Z - normal: Simulator:     debugger: none
+2017-07-24T17:21:51.582Z - normal: Simulator:     add searching path:
+2017-07-24T17:21:51.583Z - normal: Simulator: 
+2017-07-24T17:21:51.584Z - normal: Simulator: 
+2017-07-24T17:21:51.584Z - normal: Simulator: 
+2017-07-24T17:21:51.585Z - normal: Simulator: ------------------------------------------------
+2017-07-24T17:21:51.585Z - normal: Simulator: LOAD Js FILE: main.js
+2017-07-24T17:21:51.586Z - normal: Simulator: ------------------------------------------------
+2017-07-24T17:21:51.717Z - normal: Simulator: Cocos2d-x-lite v1.5.2
+2017-07-24T17:21:52.058Z - normal: Simulator: iShow!
+2017-07-24T17:21:52.157Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T17:21:53.286Z - normal: Simulator: I/AudioEngine-Win32 (170): OpenAL was initialized successfully!
+2017-07-24T17:21:53.286Z - normal: Simulator: V/AudioCache (70): AudioCache() 08A12D94, id=1
+2017-07-24T17:21:53.287Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=1
+2017-07-24T17:21:53.287Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=1
+2017-07-24T17:21:53.288Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=1
+2017-07-24T17:21:53.288Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=1
+2017-07-24T17:21:53.288Z - normal: Simulator: V/AudioPlayer (313): Exit rotate buffer thread ...
+2017-07-24T17:21:53.289Z - normal: Simulator: V/AudioPlayer (321): cocos2d::experimental::AudioPlayer::rotateBufferThread exited.
+2017-07-24T17:21:53.290Z - normal: Simulator: 
+2017-07-24T17:21:53.291Z - normal: Simulator: V/AudioPlayer (122): rotateBufferThread exited!
+2017-07-24T17:21:53.292Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:21:53.292Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:21:53.293Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=1
+2017-07-24T17:21:53.293Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08B4C9A0), id=1
+2017-07-24T17:21:53.294Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T17:22:08.488Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=2
+2017-07-24T17:22:08.489Z - normal: Simulator: V/AudioCache (70): AudioCache() 08A11EB4, id=2
+2017-07-24T17:22:08.489Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=2
+2017-07-24T17:22:08.490Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 27648, total read frames: 27648, adjust frames: 0, remainingFrames: 0
+2017-07-24T17:22:08.490Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=3
+2017-07-24T17:22:08.491Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=2
+2017-07-24T17:22:08.491Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08D94B60), id=3
+2017-07-24T17:22:08.492Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=3
+2017-07-24T17:22:08.492Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:22:08.492Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:22:08.493Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=3
+2017-07-24T17:22:08.493Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=4
+2017-07-24T17:22:08.493Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08D953D0), id=4
+2017-07-24T17:22:08.494Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=4
+2017-07-24T17:22:08.494Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:22:08.494Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:22:08.494Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=4
+2017-07-24T17:22:08.495Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=5
+2017-07-24T17:22:08.495Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=6
+2017-07-24T17:22:08.495Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08D949B0), id=5
+2017-07-24T17:22:08.496Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=5
+2017-07-24T17:22:08.496Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:22:08.497Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:22:08.497Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=5
+2017-07-24T17:22:08.498Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08D95460), id=6
+2017-07-24T17:22:08.498Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=6
+2017-07-24T17:22:08.498Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:22:08.499Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:22:08.499Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=6
+2017-07-24T17:22:08.500Z - normal: Simulator: V/AudioCache (70): AudioCache() 08A12314, id=3
+2017-07-24T17:22:08.500Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=3
+2017-07-24T17:22:08.501Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 8734, total read frames: 8734, adjust frames: 0, remainingFrames: 0
+2017-07-24T17:22:08.501Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=7
+2017-07-24T17:22:08.502Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=3
+2017-07-24T17:22:08.503Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08D944A0), id=7
+2017-07-24T17:22:08.503Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=7
+2017-07-24T17:22:08.503Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:22:08.504Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:22:08.504Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=7
+2017-07-24T17:22:08.504Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=8
+2017-07-24T17:22:08.505Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=9
+2017-07-24T17:22:08.505Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08D94AD0), id=8
+2017-07-24T17:22:08.505Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=8
+2017-07-24T17:22:08.505Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:22:08.506Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:22:08.506Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=8
+2017-07-24T17:22:08.506Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08D95100), id=9
+2017-07-24T17:22:08.507Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=9
+2017-07-24T17:22:08.507Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:22:08.507Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:22:08.508Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=9
+2017-07-24T17:22:08.508Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=10
+2017-07-24T17:22:08.508Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=11
+2017-07-24T17:22:08.510Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08D94E30), id=10
+2017-07-24T17:22:08.511Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=10
+2017-07-24T17:22:08.511Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:22:08.512Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:22:08.512Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=10
+2017-07-24T17:22:08.512Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08D952B0), id=11
+2017-07-24T17:22:08.513Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=11
+2017-07-24T17:22:08.513Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:22:08.513Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:22:08.514Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=11
+2017-07-24T17:22:08.514Z - normal: Simulator: basic_object_finalize 07031740 ...
+2017-07-24T17:22:08.514Z - normal: Simulator: jsbindings: finalizing JS object 07031760 (WebSocket)
+2017-07-24T17:22:08.515Z - normal: Simulator: jsbindings: finalizing JS object 07031780 (SocketIO)
+2017-07-24T17:22:39.144Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2017-07-24T17:22:39.145Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2017-07-24T17:22:39.146Z - normal: Simulator: FRAME SCALE = 1.00
+2017-07-24T17:22:39.250Z - normal: Simulator: Ready for GLSL
+2017-07-24T17:22:39.251Z - normal: Simulator: Ready for OpenGL 2.0
+2017-07-24T17:22:39.251Z - normal: Simulator: 
+2017-07-24T17:22:39.252Z - normal: Simulator: {
+2017-07-24T17:22:39.253Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4242
+2017-07-24T17:22:39.254Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-07-24T17:22:39.254Z - normal: Simulator: 	cocos2d.x.version: 1.5.2
+2017-07-24T17:22:39.255Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-07-24T17:22:39.256Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-07-24T17:22:39.256Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-07-24T17:22:39.256Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-07-24T17:22:39.257Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-07-24T17:22:39.258Z - normal: Simulator: 	gl.vendor: Intel
+2017-07-24T17:22:39.258Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
+2017-07-24T17:22:39.259Z - normal: Simulator: 	gl.max_texture_units: 96
+2017-07-24T17:22:39.259Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-07-24T17:22:39.261Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-07-24T17:22:39.262Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-07-24T17:22:39.263Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-07-24T17:22:39.263Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-07-24T17:22:39.263Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-07-24T17:22:39.264Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-07-24T17:22:39.264Z - normal: Simulator: }
+2017-07-24T17:22:39.265Z - normal: Simulator: 
+2017-07-24T17:22:39.265Z - normal: Simulator: 
+2017-07-24T17:22:39.265Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-07-24T17:22:39.266Z - normal: Simulator: Project Config:
+2017-07-24T17:22:39.266Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2017-07-24T17:22:39.267Z - normal: Simulator:     writable path: $(PROJDIR)\
+2017-07-24T17:22:39.267Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2017-07-24T17:22:39.267Z - normal: Simulator:     frame size: 960 x 640
+2017-07-24T17:22:39.268Z - normal: Simulator:     frame scale: 1.00
+2017-07-24T17:22:39.268Z - normal: Simulator:     show console: NO
+2017-07-24T17:22:39.269Z - normal: Simulator:     write debug log: NO ()
+2017-07-24T17:22:39.269Z - normal: Simulator:     listen: 
+2017-07-24T17:22:39.270Z - normal: Simulator:     debugger: none
+2017-07-24T17:22:39.270Z - normal: Simulator:     add searching path:
+2017-07-24T17:22:39.270Z - normal: Simulator: 
+2017-07-24T17:22:39.271Z - normal: Simulator: 
+2017-07-24T17:22:39.272Z - normal: Simulator: 
+2017-07-24T17:22:39.273Z - normal: Simulator: ------------------------------------------------
+2017-07-24T17:22:39.273Z - normal: Simulator: LOAD Js FILE: main.js
+2017-07-24T17:22:39.274Z - normal: Simulator: ------------------------------------------------
+2017-07-24T17:22:39.416Z - normal: Simulator: Cocos2d-x-lite v1.5.2
+2017-07-24T17:22:39.836Z - normal: Simulator: iShow!
+2017-07-24T17:22:39.946Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T17:22:46.231Z - normal: Simulator: I/AudioEngine-Win32 (170): OpenAL was initialized successfully!
+2017-07-24T17:22:46.232Z - normal: Simulator: V/AudioCache (70): AudioCache() 0906CBE4, id=1
+2017-07-24T17:22:46.232Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=1
+2017-07-24T17:22:46.233Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=1
+2017-07-24T17:22:46.233Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=1
+2017-07-24T17:22:46.233Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=1
+2017-07-24T17:22:46.234Z - normal: Simulator: V/AudioPlayer (313): Exit rotate buffer thread ...
+2017-07-24T17:22:46.234Z - normal: Simulator: V/AudioPlayer (321): cocos2d::experimental::AudioPlayer::rotateBufferThread exited.
+2017-07-24T17:22:46.234Z - normal: Simulator: 
+2017-07-24T17:22:46.235Z - normal: Simulator: V/AudioPlayer (122): rotateBufferThread exited!
+2017-07-24T17:22:46.235Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:22:46.235Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:22:46.236Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=1
+2017-07-24T17:22:46.236Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (091315B0), id=1
+2017-07-24T17:22:46.236Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T17:23:09.905Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=2
+2017-07-24T17:23:09.906Z - normal: Simulator: V/AudioCache (70): AudioCache() 0906D824, id=2
+2017-07-24T17:23:09.906Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=2
+2017-07-24T17:23:09.906Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 27648, total read frames: 27648, adjust frames: 0, remainingFrames: 0
+2017-07-24T17:23:09.907Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=3
+2017-07-24T17:23:09.908Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=2
+2017-07-24T17:23:09.908Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (091773D8), id=3
+2017-07-24T17:23:09.909Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=3
+2017-07-24T17:23:09.909Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:23:09.909Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:23:09.910Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=3
+2017-07-24T17:23:09.910Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=4
+2017-07-24T17:23:09.910Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09178548), id=4
+2017-07-24T17:23:09.911Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=4
+2017-07-24T17:23:09.911Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:23:09.911Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:23:09.912Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=4
+2017-07-24T17:23:09.912Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=5
+2017-07-24T17:23:09.913Z - normal: Simulator: V/AudioCache (70): AudioCache() 0906C6A4, id=3
+2017-07-24T17:23:09.913Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=3
+2017-07-24T17:23:09.913Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 8734, total read frames: 8734, adjust frames: 0, remainingFrames: 0
+2017-07-24T17:23:09.914Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=6
+2017-07-24T17:23:09.914Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=3
+2017-07-24T17:23:09.914Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (091781E8), id=6
+2017-07-24T17:23:09.915Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=6
+2017-07-24T17:23:09.915Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:23:09.915Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:23:09.916Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=6
+2017-07-24T17:23:09.916Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09178158), id=5
+2017-07-24T17:23:09.917Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=5
+2017-07-24T17:23:09.917Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:23:09.917Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:23:09.918Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=5
+2017-07-24T17:23:09.918Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=7
+2017-07-24T17:23:09.918Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=8
+2017-07-24T17:23:09.919Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09177E88), id=7
+2017-07-24T17:23:09.921Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=7
+2017-07-24T17:23:09.921Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:23:09.921Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:23:09.922Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=7
+2017-07-24T17:23:09.922Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09177C48), id=8
+2017-07-24T17:23:09.923Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=8
+2017-07-24T17:23:09.928Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:23:09.930Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:23:09.933Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=8
+2017-07-24T17:23:09.933Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=9
+2017-07-24T17:23:09.934Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09177C48), id=9
+2017-07-24T17:23:09.934Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=9
+2017-07-24T17:23:09.935Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:23:09.935Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:23:09.936Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=9
+2017-07-24T17:23:09.936Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=10
+2017-07-24T17:23:09.937Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=11
+2017-07-24T17:23:09.937Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09178158), id=11
+2017-07-24T17:23:09.937Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=11
+2017-07-24T17:23:09.938Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:23:09.938Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:23:09.938Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=11
+2017-07-24T17:23:09.939Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (091786F8), id=10
+2017-07-24T17:23:09.939Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=10
+2017-07-24T17:23:09.939Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:23:09.940Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:23:09.940Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=10
+2017-07-24T17:23:09.940Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=12
+2017-07-24T17:23:09.941Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09177CD8), id=12
+2017-07-24T17:23:09.941Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=12
+2017-07-24T17:23:09.941Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:23:09.942Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:23:09.944Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=12
+2017-07-24T17:23:09.944Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=13
+2017-07-24T17:23:09.945Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09178158), id=13
+2017-07-24T17:23:09.945Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=13
+2017-07-24T17:23:09.945Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:23:09.946Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:23:09.946Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=13
+2017-07-24T17:23:09.946Z - normal: Simulator: basic_object_finalize 07631740 ...
+2017-07-24T17:23:09.947Z - normal: Simulator: jsbindings: finalizing JS object 07631760 (WebSocket)
+2017-07-24T17:23:09.947Z - normal: Simulator: jsbindings: finalizing JS object 07631780 (SocketIO)
+2017-07-24T17:28:29.174Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2017-07-24T17:28:29.176Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2017-07-24T17:28:29.176Z - normal: Simulator: FRAME SCALE = 1.00
+2017-07-24T17:28:29.295Z - normal: Simulator: Ready for GLSL
+2017-07-24T17:28:29.296Z - normal: Simulator: Ready for OpenGL 2.0
+2017-07-24T17:28:29.296Z - normal: Simulator: 
+2017-07-24T17:28:29.297Z - normal: Simulator: {
+2017-07-24T17:28:29.297Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4242
+2017-07-24T17:28:29.298Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-07-24T17:28:29.298Z - normal: Simulator: 	cocos2d.x.version: 1.5.2
+2017-07-24T17:28:29.299Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-07-24T17:28:29.300Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-07-24T17:28:29.300Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-07-24T17:28:29.300Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-07-24T17:28:29.301Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-07-24T17:28:29.301Z - normal: Simulator: 	gl.vendor: Intel
+2017-07-24T17:28:29.302Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
+2017-07-24T17:28:29.302Z - normal: Simulator: 	gl.max_texture_units: 96
+2017-07-24T17:28:29.303Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-07-24T17:28:29.303Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-07-24T17:28:29.304Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-07-24T17:28:29.304Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-07-24T17:28:29.304Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-07-24T17:28:29.305Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-07-24T17:28:29.305Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-07-24T17:28:29.306Z - normal: Simulator: }
+2017-07-24T17:28:29.306Z - normal: Simulator: 
+2017-07-24T17:28:29.307Z - normal: Simulator: 
+2017-07-24T17:28:29.307Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-07-24T17:28:29.308Z - normal: Simulator: Project Config:
+2017-07-24T17:28:29.308Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2017-07-24T17:28:29.308Z - normal: Simulator:     writable path: $(PROJDIR)\
+2017-07-24T17:28:29.309Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2017-07-24T17:28:29.309Z - normal: Simulator:     frame size: 960 x 640
+2017-07-24T17:28:29.310Z - normal: Simulator:     frame scale: 1.00
+2017-07-24T17:28:29.310Z - normal: Simulator:     show console: NO
+2017-07-24T17:28:29.312Z - normal: Simulator:     write debug log: NO ()
+2017-07-24T17:28:29.313Z - normal: Simulator:     listen: 
+2017-07-24T17:28:29.313Z - normal: Simulator:     debugger: none
+2017-07-24T17:28:29.316Z - normal: Simulator:     add searching path:
+2017-07-24T17:28:29.316Z - normal: Simulator: 
+2017-07-24T17:28:29.317Z - normal: Simulator: 
+2017-07-24T17:28:29.317Z - normal: Simulator: 
+2017-07-24T17:28:29.318Z - normal: Simulator: ------------------------------------------------
+2017-07-24T17:28:29.318Z - normal: Simulator: LOAD Js FILE: main.js
+2017-07-24T17:28:29.320Z - normal: Simulator: ------------------------------------------------
+2017-07-24T17:28:29.446Z - normal: Simulator: Cocos2d-x-lite v1.5.2
+2017-07-24T17:28:29.912Z - normal: Simulator: iShow!
+2017-07-24T17:28:30.061Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T17:28:44.623Z - normal: Simulator: I/AudioEngine-Win32 (170): OpenAL was initialized successfully!
+2017-07-24T17:28:44.624Z - normal: Simulator: V/AudioCache (70): AudioCache() 08355764, id=1
+2017-07-24T17:28:44.624Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=1
+2017-07-24T17:28:44.625Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=1
+2017-07-24T17:28:44.625Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=1
+2017-07-24T17:28:44.626Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=1
+2017-07-24T17:28:44.626Z - normal: Simulator: V/AudioPlayer (313): Exit rotate buffer thread ...
+2017-07-24T17:28:44.627Z - normal: Simulator: V/AudioPlayer (321): cocos2d::experimental::AudioPlayer::rotateBufferThread exited.
+2017-07-24T17:28:44.627Z - normal: Simulator: 
+2017-07-24T17:28:44.628Z - normal: Simulator: V/AudioPlayer (122): rotateBufferThread exited!
+2017-07-24T17:28:44.628Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:28:44.631Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:28:44.631Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=1
+2017-07-24T17:28:44.632Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (083F5528), id=1
+2017-07-24T17:28:44.633Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T17:28:51.143Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=2
+2017-07-24T17:28:51.145Z - normal: Simulator: V/AudioCache (70): AudioCache() 08355A04, id=2
+2017-07-24T17:28:51.145Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=2
+2017-07-24T17:28:51.146Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 27648, total read frames: 27648, adjust frames: 0, remainingFrames: 0
+2017-07-24T17:28:51.146Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=3
+2017-07-24T17:28:51.147Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=2
+2017-07-24T17:28:51.147Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0867BC60), id=3
+2017-07-24T17:28:51.148Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=3
+2017-07-24T17:28:51.148Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:28:51.149Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:28:51.149Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=3
+2017-07-24T17:28:51.149Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=4
+2017-07-24T17:28:51.150Z - normal: Simulator: V/AudioCache (70): AudioCache() 08355AE4, id=3
+2017-07-24T17:28:51.150Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=3
+2017-07-24T17:28:51.150Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 8734, total read frames: 8734, adjust frames: 0, remainingFrames: 0
+2017-07-24T17:28:51.151Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=5
+2017-07-24T17:28:51.151Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=3
+2017-07-24T17:28:51.151Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0867B510), id=5
+2017-07-24T17:28:51.152Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=5
+2017-07-24T17:28:51.152Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:28:51.152Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:28:51.153Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=5
+2017-07-24T17:28:51.153Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0867B480), id=4
+2017-07-24T17:28:51.154Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=4
+2017-07-24T17:28:51.154Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:28:51.155Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:28:51.155Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=4
+2017-07-24T17:28:51.155Z - normal: Simulator: if the index doesn't exist, it is an error
+2017-07-24T17:28:51.156Z - normal: Simulator: touchesMoved: size = 0
+2017-07-24T17:28:51.163Z - normal: Simulator: if the index doesn't exist, it is an error
+2017-07-24T17:28:51.163Z - normal: Simulator: touchesMoved: size = 0
+2017-07-24T17:28:51.164Z - normal: Simulator: if the index doesn't exist, it is an error
+2017-07-24T17:28:51.165Z - normal: Simulator: touchesMoved: size = 0
+2017-07-24T17:28:51.176Z - normal: Simulator: if the index doesn't exist, it is an error
+2017-07-24T17:28:51.176Z - normal: Simulator: touchesMoved: size = 0
+2017-07-24T17:28:51.193Z - normal: Simulator: if the index doesn't exist, it is an error
+2017-07-24T17:28:51.194Z - normal: Simulator: touchesMoved: size = 0
+2017-07-24T17:28:51.211Z - normal: Simulator: if the index doesn't exist, it is an error
+2017-07-24T17:28:51.212Z - normal: Simulator: touchesMoved: size = 0
+2017-07-24T17:28:51.243Z - normal: Simulator: if the index doesn't exist, it is an error
+2017-07-24T17:28:51.243Z - normal: Simulator: touchesMoved: size = 0
+2017-07-24T17:28:51.244Z - normal: Simulator: if the index doesn't exist, it is an error
+2017-07-24T17:28:51.245Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2017-07-24T17:29:01.768Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=6
+2017-07-24T17:29:01.768Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=7
+2017-07-24T17:29:01.769Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0867B750), id=6
+2017-07-24T17:29:01.769Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=6
+2017-07-24T17:29:01.769Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:01.770Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:01.770Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=6
+2017-07-24T17:29:01.771Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0867BC60), id=7
+2017-07-24T17:29:01.771Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=7
+2017-07-24T17:29:01.771Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:01.772Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:01.772Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=7
+2017-07-24T17:29:01.772Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=8
+2017-07-24T17:29:01.773Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0867B510), id=8
+2017-07-24T17:29:01.774Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=8
+2017-07-24T17:29:01.775Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:01.777Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:01.778Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=8
+2017-07-24T17:29:01.779Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=2
+2017-07-24T17:29:01.780Z - normal: Simulator: V/AudioPlayer (313): Exit rotate buffer thread ...
+2017-07-24T17:29:01.781Z - normal: Simulator: V/AudioPlayer (321): cocos2d::experimental::AudioPlayer::rotateBufferThread exited.
+2017-07-24T17:29:01.781Z - normal: Simulator: 
+2017-07-24T17:29:01.782Z - normal: Simulator: V/AudioPlayer (122): rotateBufferThread exited!
+2017-07-24T17:29:01.782Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:01.783Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:01.784Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=2
+2017-07-24T17:29:01.784Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0867CF80), id=2
+2017-07-24T17:29:01.785Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T17:29:17.496Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=9
+2017-07-24T17:29:17.497Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=10
+2017-07-24T17:29:17.498Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4C498), id=10
+2017-07-24T17:29:17.498Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=10
+2017-07-24T17:29:17.498Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:17.499Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:17.499Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=10
+2017-07-24T17:29:17.499Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=11
+2017-07-24T17:29:17.500Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4C528), id=11
+2017-07-24T17:29:17.500Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=11
+2017-07-24T17:29:17.501Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:17.501Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:17.501Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=11
+2017-07-24T17:29:17.502Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=12
+2017-07-24T17:29:17.502Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4C528), id=12
+2017-07-24T17:29:17.503Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=12
+2017-07-24T17:29:17.503Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:17.503Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:17.504Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=12
+2017-07-24T17:29:17.504Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=13
+2017-07-24T17:29:17.504Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=14
+2017-07-24T17:29:17.505Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4C528), id=13
+2017-07-24T17:29:17.505Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=13
+2017-07-24T17:29:17.505Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:17.506Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:17.506Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=13
+2017-07-24T17:29:17.506Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4C138), id=14
+2017-07-24T17:29:17.507Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=14
+2017-07-24T17:29:17.507Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:17.508Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:17.508Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=14
+2017-07-24T17:29:17.509Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=15
+2017-07-24T17:29:17.509Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4C528), id=15
+2017-07-24T17:29:17.510Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=15
+2017-07-24T17:29:17.510Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:17.510Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:17.511Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=15
+2017-07-24T17:29:17.511Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=16
+2017-07-24T17:29:17.512Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4CBE8), id=16
+2017-07-24T17:29:17.512Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=16
+2017-07-24T17:29:17.513Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:17.513Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:17.513Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=16
+2017-07-24T17:29:17.514Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=17
+2017-07-24T17:29:17.514Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=18
+2017-07-24T17:29:17.515Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4C918), id=17
+2017-07-24T17:29:17.515Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=17
+2017-07-24T17:29:17.515Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:17.516Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:17.516Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=17
+2017-07-24T17:29:17.517Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4C6D8), id=18
+2017-07-24T17:29:17.517Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=18
+2017-07-24T17:29:17.518Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:17.518Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:17.518Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=18
+2017-07-24T17:29:17.519Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=19
+2017-07-24T17:29:17.519Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4C9A8), id=19
+2017-07-24T17:29:17.520Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=19
+2017-07-24T17:29:17.520Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:17.520Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:17.521Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=19
+2017-07-24T17:29:17.521Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=20
+2017-07-24T17:29:17.522Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4C9A8), id=20
+2017-07-24T17:29:17.522Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=20
+2017-07-24T17:29:17.522Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:17.523Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:17.523Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=20
+2017-07-24T17:29:17.525Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=21
+2017-07-24T17:29:17.527Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4D7B8), id=21
+2017-07-24T17:29:17.528Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=21
+2017-07-24T17:29:17.529Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:17.529Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:17.530Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=21
+2017-07-24T17:29:17.530Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=22
+2017-07-24T17:29:17.531Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4D608), id=22
+2017-07-24T17:29:17.531Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=22
+2017-07-24T17:29:17.531Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:17.532Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:17.532Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=22
+2017-07-24T17:29:17.533Z - normal: Simulator: V/AudioPlayer (146): Aud
+2017-07-24T17:29:22.780Z - normal: Simulator: ioPlayer::play2d, _alSource: 2, player id=23
+2017-07-24T17:29:22.781Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4D698), id=23
+2017-07-24T17:29:22.781Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=23
+2017-07-24T17:29:22.782Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:22.782Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:22.783Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=23
+2017-07-24T17:29:22.783Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=24
+2017-07-24T17:29:22.784Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (08A4DE78), id=24
+2017-07-24T17:29:22.784Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=24
+2017-07-24T17:29:22.784Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T17:29:22.785Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T17:29:22.785Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=24
+2017-07-24T17:29:22.785Z - normal: Simulator: basic_object_finalize 06931740 ...
+2017-07-24T17:29:22.786Z - normal: Simulator: jsbindings: finalizing JS object 06931760 (WebSocket)
+2017-07-24T17:29:22.786Z - normal: Simulator: jsbindings: finalizing JS object 06931780 (SocketIO)
+2017-07-24T21:12:17.972Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2017-07-24T21:12:17.976Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2017-07-24T21:12:17.976Z - normal: Simulator: FRAME SCALE = 1.00
+2017-07-24T21:12:18.191Z - normal: Simulator: Ready for GLSL
+2017-07-24T21:12:18.192Z - normal: Simulator: Ready for OpenGL 2.0
+2017-07-24T21:12:18.193Z - normal: Simulator: 
+2017-07-24T21:12:18.193Z - normal: Simulator: {
+2017-07-24T21:12:18.194Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4242
+2017-07-24T21:12:18.194Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-07-24T21:12:18.195Z - normal: Simulator: 	cocos2d.x.version: 1.5.2
+2017-07-24T21:12:18.196Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-07-24T21:12:18.197Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-07-24T21:12:18.198Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-07-24T21:12:18.199Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-07-24T21:12:18.200Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-07-24T21:12:18.202Z - normal: Simulator: 	gl.vendor: Intel
+2017-07-24T21:12:18.203Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
+2017-07-24T21:12:18.204Z - normal: Simulator: 	gl.max_texture_units: 96
+2017-07-24T21:12:18.205Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-07-24T21:12:18.205Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-07-24T21:12:18.205Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-07-24T21:12:18.206Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-07-24T21:12:18.206Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-07-24T21:12:18.207Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-07-24T21:12:18.208Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-07-24T21:12:18.209Z - normal: Simulator: }
+2017-07-24T21:12:18.210Z - normal: Simulator: 
+2017-07-24T21:12:18.210Z - normal: Simulator: 
+2017-07-24T21:12:18.211Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-07-24T21:12:18.212Z - normal: Simulator: Project Config:
+2017-07-24T21:12:18.212Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2017-07-24T21:12:18.213Z - normal: Simulator:     writable path: $(PROJDIR)\
+2017-07-24T21:12:18.214Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2017-07-24T21:12:18.214Z - normal: Simulator:     frame size: 960 x 640
+2017-07-24T21:12:18.215Z - normal: Simulator:     frame scale: 1.00
+2017-07-24T21:12:18.216Z - normal: Simulator:     show console: NO
+2017-07-24T21:12:18.217Z - normal: Simulator:     write debug log: NO ()
+2017-07-24T21:12:18.218Z - normal: Simulator:     listen: 
+2017-07-24T21:12:18.219Z - normal: Simulator:     debugger: none
+2017-07-24T21:12:18.219Z - normal: Simulator:     add searching path:
+2017-07-24T21:12:18.220Z - normal: Simulator: 
+2017-07-24T21:12:18.221Z - normal: Simulator: 
+2017-07-24T21:12:18.221Z - normal: Simulator: 
+2017-07-24T21:12:18.223Z - normal: Simulator: ------------------------------------------------
+2017-07-24T21:12:18.224Z - normal: Simulator: LOAD Js FILE: main.js
+2017-07-24T21:12:18.225Z - normal: Simulator: ------------------------------------------------
+2017-07-24T21:12:18.390Z - normal: Simulator: Cocos2d-x-lite v1.5.2
+2017-07-24T21:12:19.067Z - normal: Simulator: iShow!
+2017-07-24T21:12:19.244Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T21:12:29.407Z - normal: Simulator: I/AudioEngine-Win32 (170): OpenAL was initialized successfully!
+2017-07-24T21:12:29.408Z - normal: Simulator: V/AudioCache (70): AudioCache() 0840EBFC, id=1
+2017-07-24T21:12:29.410Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=1
+2017-07-24T21:12:29.410Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=1
+2017-07-24T21:12:29.411Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=1
+2017-07-24T21:12:29.412Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=1
+2017-07-24T21:12:29.412Z - normal: Simulator: V/AudioPlayer (313): Exit rotate buffer thread ...
+2017-07-24T21:12:29.413Z - normal: Simulator: V/AudioPlayer (321): cocos2d::experimental::AudioPlayer::rotateBufferThread exited.
+2017-07-24T21:12:29.413Z - normal: Simulator: 
+2017-07-24T21:12:29.414Z - normal: Simulator: V/AudioPlayer (122): rotateBufferThread exited!
+2017-07-24T21:12:29.415Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T21:12:29.415Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T21:12:29.416Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=1
+2017-07-24T21:12:29.417Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (084C9C20), id=1
+2017-07-24T21:12:29.417Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T21:12:44.889Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=2
+2017-07-24T21:12:44.891Z - normal: Simulator: V/AudioCache (70): AudioCache() 0840F83C, id=2
+2017-07-24T21:12:44.891Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=2
+2017-07-24T21:12:44.892Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 8734, total read frames: 8734, adjust frames: 0, remainingFrames: 0
+2017-07-24T21:12:44.893Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=3
+2017-07-24T21:12:44.893Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=2
+2017-07-24T21:12:44.893Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (085CA4B8), id=3
+2017-07-24T21:12:44.894Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=3
+2017-07-24T21:12:44.894Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T21:12:44.895Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T21:12:44.895Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=3
+2017-07-24T21:12:44.896Z - normal: Simulator: V/AudioCache (70): AudioCache() 0840E5DC, id=3
+2017-07-24T21:12:44.896Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=3
+2017-07-24T21:12:44.897Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 27648, total read frames: 27648, adjust frames: 0, remainingFrames: 0
+2017-07-24T21:12:44.898Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=4
+2017-07-24T21:12:44.899Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=3
+2017-07-24T21:12:44.899Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 3, player id=5
+2017-07-24T21:12:44.900Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (085CA1E8), id=5
+2017-07-24T21:12:44.900Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=5
+2017-07-24T21:12:44.901Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T21:12:44.901Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T21:12:44.902Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=5
+2017-07-24T21:12:44.902Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (085C9C48), id=4
+2017-07-24T21:12:44.903Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=4
+2017-07-24T21:12:44.904Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T21:12:44.905Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T21:12:44.906Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=4
+2017-07-24T21:12:44.907Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=6
+2017-07-24T21:12:44.907Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (085CA1E8), id=6
+2017-07-24T21:12:44.908Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=6
+2017-07-24T21:12:44.909Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T21:12:44.909Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T21:12:44.910Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=6
+2017-07-24T21:12:44.910Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=7
+2017-07-24T21:12:44.911Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (085C9DF8), id=7
+2017-07-24T21:12:44.912Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=7
+2017-07-24T21:12:44.913Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T21:12:44.913Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T21:12:44.914Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=7
+2017-07-24T21:12:44.915Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=2
+2017-07-24T21:12:44.916Z - normal: Simulator: V/AudioPlayer (313): Exit rotate buffer thread ...
+2017-07-24T21:12:44.916Z - normal: Simulator: V/AudioPlayer (321): cocos2d::experimental::AudioPlayer::rotateBufferThread exited.
+2017-07-24T21:12:44.917Z - normal: Simulator: 
+2017-07-24T21:12:44.918Z - normal: Simulator: V/AudioPlayer (122): rotateBufferThread exited!
+2017-07-24T21:12:44.919Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T21:12:44.920Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T21:12:44.920Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=2
+2017-07-24T21:12:44.921Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (085C93D8), id=2
+2017-07-24T21:12:44.922Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T21:12:57.505Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=8
+2017-07-24T21:12:57.505Z - normal: Simulator: basic_object_finalize 06A31740 ...
+2017-07-24T21:12:57.506Z - normal: Simulator: jsbindings: finalizing JS object 06A31760 (WebSocket)
+2017-07-24T21:12:57.506Z - normal: Simulator: jsbindings: finalizing JS object 06A31780 (SocketIO)
+2017-07-24T21:20:47.521Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2017-07-24T21:20:47.524Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2017-07-24T21:20:47.525Z - normal: Simulator: FRAME SCALE = 1.00
+2017-07-24T21:20:47.742Z - normal: Simulator: Ready for GLSL
+2017-07-24T21:20:47.743Z - normal: Simulator: Ready for OpenGL 2.0
+2017-07-24T21:20:47.751Z - normal: Simulator: 
+2017-07-24T21:20:47.752Z - normal: Simulator: {
+2017-07-24T21:20:47.753Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4242
+2017-07-24T21:20:47.754Z - normal: Simulator: 	gl.supports_NPOT: true
+2017-07-24T21:20:47.755Z - normal: Simulator: 	cocos2d.x.version: 1.5.2
+2017-07-24T21:20:47.755Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2017-07-24T21:20:47.756Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2017-07-24T21:20:47.756Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2017-07-24T21:20:47.757Z - normal: Simulator: 	gl.max_texture_size: 16384
+2017-07-24T21:20:47.757Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2017-07-24T21:20:47.758Z - normal: Simulator: 	gl.vendor: Intel
+2017-07-24T21:20:47.758Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
+2017-07-24T21:20:47.759Z - normal: Simulator: 	gl.max_texture_units: 96
+2017-07-24T21:20:47.759Z - normal: Simulator: 	gl.supports_ETC1: false
+2017-07-24T21:20:47.760Z - normal: Simulator: 	gl.supports_PVRTC: false
+2017-07-24T21:20:47.760Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2017-07-24T21:20:47.761Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2017-07-24T21:20:47.761Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2017-07-24T21:20:47.762Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2017-07-24T21:20:47.762Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2017-07-24T21:20:47.763Z - normal: Simulator: }
+2017-07-24T21:20:47.763Z - normal: Simulator: 
+2017-07-24T21:20:47.764Z - normal: Simulator: 
+2017-07-24T21:20:47.764Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2017-07-24T21:20:47.782Z - normal: Simulator: Project Config:
+2017-07-24T21:20:47.783Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2017-07-24T21:20:47.783Z - normal: Simulator:     writable path: $(PROJDIR)\
+2017-07-24T21:20:47.783Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2017-07-24T21:20:47.788Z - normal: Simulator:     frame size: 960 x 640
+2017-07-24T21:20:47.789Z - normal: Simulator:     frame scale: 1.00
+2017-07-24T21:20:47.790Z - normal: Simulator:     show console: NO
+2017-07-24T21:20:47.791Z - normal: Simulator:     write debug log: NO ()
+2017-07-24T21:20:47.793Z - normal: Simulator:     listen: 
+2017-07-24T21:20:47.793Z - normal: Simulator:     debugger: none
+2017-07-24T21:20:47.794Z - normal: Simulator:     add searching path:
+2017-07-24T21:20:47.795Z - normal: Simulator: 
+2017-07-24T21:20:47.796Z - normal: Simulator: 
+2017-07-24T21:20:47.797Z - normal: Simulator: 
+2017-07-24T21:20:47.802Z - normal: Simulator: ------------------------------------------------
+2017-07-24T21:20:47.803Z - normal: Simulator: LOAD Js FILE: main.js
+2017-07-24T21:20:47.804Z - normal: Simulator: ------------------------------------------------
+2017-07-24T21:20:48.033Z - normal: Simulator: Cocos2d-x-lite v1.5.2
+2017-07-24T21:20:48.555Z - normal: Simulator: iShow!
+2017-07-24T21:20:48.699Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T21:20:53.240Z - normal: Simulator: I/AudioEngine-Win32 (170): OpenAL was initialized successfully!
+2017-07-24T21:20:53.240Z - normal: Simulator: V/AudioCache (70): AudioCache() 085F0F0C, id=1
+2017-07-24T21:20:53.241Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=1
+2017-07-24T21:20:53.242Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=1
+2017-07-24T21:20:53.242Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=1
+2017-07-24T21:20:53.243Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=1
+2017-07-24T21:20:53.244Z - normal: Simulator: V/AudioPlayer (313): Exit rotate buffer thread ...
+2017-07-24T21:20:53.245Z - normal: Simulator: V/AudioPlayer (321): cocos2d::experimental::AudioPlayer::rotateBufferThread exited.
+2017-07-24T21:20:53.245Z - normal: Simulator: 
+2017-07-24T21:20:53.246Z - normal: Simulator: V/AudioPlayer (122): rotateBufferThread exited!
+2017-07-24T21:20:53.247Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T21:20:53.247Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T21:20:53.248Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=1
+2017-07-24T21:20:53.248Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (09093298), id=1
+2017-07-24T21:20:53.249Z - normal: Simulator: Error 7002, please go to https://github.com/cocos-creator/engine/blob/master/EngineErrorMap.md#7002 to see details. Arguments: Audio/bg-sound.mp3
+2017-07-24T21:22:36.337Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 1, player id=2
+2017-07-24T21:22:36.342Z - normal: Simulator: V/AudioCache (70): AudioCache() 085F2F6C, id=2
+2017-07-24T21:22:36.343Z - normal: Simulator: V/AudioCache (128): readDataTask begin, cache id=2
+2017-07-24T21:22:36.344Z - normal: Simulator: V/AudioCache (241): pcm buffer was loaded successfully, total frames: 8734, total read frames: 8734, adjust frames: 0, remainingFrames: 0
+2017-07-24T21:22:36.344Z - normal: Simulator: V/AudioPlayer (146): AudioPlayer::play2d, _alSource: 2, player id=3
+2017-07-24T21:22:36.344Z - normal: Simulator: V/AudioCache (293): readDataTask end, cache id=2
+2017-07-24T21:22:36.345Z - normal: Simulator: V/AudioPlayer (68): ~AudioPlayer() (0929B888), id=3
+2017-07-24T21:22:36.345Z - normal: Simulator: V/AudioPlayer (82): AudioPlayer::destroy begin, id=3
+2017-07-24T21:22:36.346Z - normal: Simulator: V/AudioPlayer (127): Before alSourceStop
+2017-07-24T21:22:36.346Z - normal: Simulator: V/AudioPlayer (129): Before alSourcei
+2017-07-24T21:22:36.346Z - normal: Simulator: V/AudioPlayer (135): AudioPlayer::destroy end, id=3
+2017-07-24T21:22:36.347Z - normal: Simulator: basic_object_finalize 07631740 ...
+2017-07-24T21:22:36.347Z - normal: Simulator: jsbindings: finalizing JS object 07631760 (WebSocket)
+2017-07-24T21:22:36.348Z - normal: Simulator: jsbindings: finalizing JS object 07631780 (SocketIO)
+2017-07-27T01:07:53.806Z - info: shutdown preview server
